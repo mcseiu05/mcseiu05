@@ -34,8 +34,8 @@ A tailored ERP solution for real estate, covering modules such as HR & Payroll, 
 ### Space ERP
 Another ERP solution for the real estate sector, focusing on financial management and operational efficiency.
 
-### Analytical Dashboards
-- **Bay Dash**: An analytical dashboard leveraging MS Power BI for data visualization.
+### Dashboards
+- **Bay Dash**: A comprehensive dashboard leveraging MS Power BI for data visualization.
 - **Space Dash**: A comprehensive dashboard utilizing .NET and Google Charts.
 
 ## Connect with Me
