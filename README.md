@@ -36,7 +36,7 @@ Another ERP solution for the real estate sector, focusing on financial managemen
 
 ### Analytical Dashboards
 - **Bay Dash**: An analytical dashboard leveraging MS Power BI for data visualization.
-- **S Dash**: A comprehensive dashboard utilizing .NET and Google Charts.
+- **Space Dash**: A comprehensive dashboard utilizing .NET and Google Charts.
 
 ## Connect with Me
 
