@@ -4,15 +4,15 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 
 ## About Me
 
-- 🎓 **Education**: Master of Science in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
+- 🎓 **Education**:  Education: Master of Science (MS) and Bachelor of Science (BS) in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
 - 📍 **Location**: Dhaka, Bangladesh.
 - 💼 **Current Role**: Teach Lead at B2B Solutions, where I design and develop comprehensive business processes.
 
 ## Skills
 
-- **Programming Languages**: ASP.NET Core, ASP.NET Web Form
+- **Web Development**: ASP.NET, AJAX, Web Services, LINQ
 - **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, MS Power BI
-- **Database Management**: MS SQL Server (2010-2022), PostgreSQL
+- **Database Management**: MS SQL Server, PostgreSQL
 - **Tools**: Crystal Report, Git, Trello, Clickup
 - **Machine Learning**: Developed demand predictive models using TensorFlow
 
