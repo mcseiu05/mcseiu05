@@ -41,7 +41,6 @@ Another ERP solution for the real estate sector, focusing on financial managemen
 ## Connect with Me
 
 - 📧 Email: [m.cseiu05@gmail.com](mailto:m.cseiu05@gmail.com)
-- 🌐 Portfolio: [https://mcseiu05.github.io](https://mcseiu05.github.io)
 - 📜 LinkedIn: [Mamun Ahammed](https://www.linkedin.com/in/mamun-ahammed-32b0b9b9/m_cseiu)
 - 📁 GitHub: [mcseiu05](https://github.com/mcseiu05)
 
