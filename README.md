@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 
 ## About Me
 
-- 🎓 **Education**: Education: Master of Science (MS) and Bachelor of Science (BS) in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
+- 🎓 **Education**: Master of Science and Bachelor of Science in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
 - 💼 **Current Role**: Teach Lead at B2B Solutions, where I design and develop comprehensive business processes.
 - 📍  **Location**: Dhaka, Bangladesh.
 
