@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 ## About Me
 
 - 🎓 **Education**: Master of Science (MS) and Bachelor of Science (BS) in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
-- 📍 **Location**: Dhaka, Bangladesh.
 - 💼 **Current Role**: Teach Lead at B2B Solutions, where I design and develop comprehensive business processes.
+- 📍  **Location**: Dhaka, Bangladesh.
 
 ## Skills
 
@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 ## Work Experience
 
 ### Teach Lead at B2B Solutions (Jan 2016 - Present)
-- Designed, developed, and integrated business processes using ASP.NET and MS SQL Server.
-- Developed analytical dashboards using MS Power BI and .NET.
+- Designed, developed, and integrated business processes using ASP.NET Core, Angular, ASP.NET Web Form, Crystal Report and MS SQL Server.
+- Developed comprehensive dashboards using MS Power BI, ASP.NET Web Form with Google Chart and ASP.NET Zero.
 - Created demand predictive models and comprehensive reports for data-driven decision-making.
 
 ### Software Engineer at Yunusco T&A (BD) Limited (Apr 2015 - Dec 2015)
