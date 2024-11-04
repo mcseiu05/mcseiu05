@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 
 ## Skills
 
-- **Web Development**: ASP.NET, AJAX, Web Services, LINQ
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, MS Power BI
-- **Database Management**: MS SQL Server, PostgreSQL
-- **Tools**: Crystal Report, Git, Trello, Clickup
+- **Web Development**: ASP.NET Core, ASP.NET Web Form, AJAX, Web Services, LINQ, Dash, Flask, Angular, Entity Framework
+- **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, Crystal Report, MS Power BI
 - **Machine Learning**: Developed demand predictive models using TensorFlow
+- **Database Management**: MS SQL Server, Oracle, PostgreSQL
+- **Tools**: Git, Trello, Clickup
 
 ## Work Experience
 
