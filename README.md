@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 ## Work Experience
 
 ### Teach Lead at B2B Solutions (Jan 2016 - Present)
-- Designed, developed, and integrated business processes using ASP.NET Core, Angular, ASP.NET Web Form, Crystal Report and MS SQL Server.
+- Designed, developed and integrated business processes using ASP.NET Core, Web Form, Angular, Crystal Report and MS SQL Server.
 - Developed comprehensive dashboards using MS Power BI, ASP.NET Web Form with Google Chart and ASP.NET Zero.
 - Created demand predictive models and comprehensive reports for data-driven decision-making.
 
