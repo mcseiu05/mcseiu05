@@ -26,7 +26,7 @@ The work I have done as a **Teach Lead** on a large-scale **ERP development proj
 
 Currently, I am involved in migrating and upgrading the system to **ASP.NET Core** and **Angular** to enhance its performance, scalability, and maintainability.
 
-## Key Responsibilities:
+### Key Responsibilities:
 
 ### ERP Modules Development:
 - Developed and maintained critical ERP modules for **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management** using **ASP.NET Web Forms** and **MS SQL Server**.
