@@ -34,7 +34,7 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 - Automated complex workflows and enhanced data validation processes to reduce manual intervention.
 
 ### Dashboards & Reporting:
-- Developed interactive **Power BI** and **Google Charts** dashboards for senior management, providing real-time insights into key performance indicators (KPIs) and business metrics.
+- Developed interactive **Power BI**, **Google Charts** and **Dash** dashboards for senior management, providing real-time insights into key performance indicators (KPIs) and business metrics.
 - Delivered ad-hoc **Excel reports** to various departments, optimizing data presentation and streamlining analysis processes.
 
 ## Technologies Used:
