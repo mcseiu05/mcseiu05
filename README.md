@@ -29,8 +29,8 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 
 ### ERP Modules Development:
 - Developed and maintained critical ERP modules for **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management** using **ASP.NET Web Forms** and **MS SQL Server**.
-- Integrated **LINQ** queries and **stored procedures** to ensure efficient data processing, reporting, and business logic implementation.
 - Created detailed **Crystal Reports** for financial, HR, and inventory reporting, streamlining internal reporting processes and providing valuable insights to senior management.
+- Integrated **LINQ** queries and **stored procedures** to ensure efficient data processing, reporting, and business logic implementation.
 - Automated complex workflows and enhanced data validation processes to reduce manual intervention.
 
 ### Dashboards & Reporting:
@@ -45,14 +45,13 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 
 
 ### Junior Software Engineer | Textile-based ERP Development Project  
-### Yunusco T&A, Dhaka | Apr 2015 - Dec 2015
+### Yunusco T&A, Narayanganj | Apr 2015 - Dec 2015
 
 Before joining the large-scale ERP development project, I worked as a **Junior Software Engineer** on a **textile-based ERP system**. In this role, I assisted in the development and customization of core ERP modules with a focus on textile industry-specific processes. My responsibilities included implementing basic business logic, customizing user interfaces, and creating reports using technologies such as **ASP.NET Web Forms**, **MS SQL Server**, and **Crystal Reports**.
 
 ### Key Responsibilities:
-- Assisted in developing modules related to inventory management, order processing, and production planning for the textile industry.
-- Collaborated with senior developers to write efficient **SQL queries** and **stored procedures** for data retrieval and reporting.
 - Created and maintained **Crystal Reports** for tracking inventory levels, production schedules, and order status, providing real-time insights to management.
+- Assisted in developing modules related to inventory management, order processing, and production planning for the textile industry.
 
 ### Technologies Used:
 - **ASP.NET Web Forms**, **MS SQL Server**, **AJAX**, **JavaScript** **Crystal Reports**
