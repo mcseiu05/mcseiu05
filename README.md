@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 
 ## Skills
 
-- **Web Development**: ASP.NET Core, ASP.NET Web Form, AJAX, Web Services, LINQ, Dash, Flask, Angular, Entity Framework
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, Crystal Report, MS Power BI
+- **Web Development**: ASP.NET Web Form, AJAX, Web Services, LINQ, ASP.NET Core(in progress), Angular (in progress), Entity Framework
+- **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, Crystal Report, MS Power BI, Dash, Google Charts
 - **Machine Learning**: Developed demand predictive models using TensorFlow
 - **Database Management**: MS SQL Server, Oracle, PostgreSQL
 - **Tools**: Git, Trello, Clickup
@@ -37,12 +37,8 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 - Developed interactive **Power BI**, **Google Charts** and **Dash** dashboards for senior management, providing real-time insights into key performance indicators (KPIs) and business metrics.
 - Delivered ad-hoc **Excel reports** to various departments, optimizing data presentation and streamlining analysis processes.
 
-## Technologies Used:
-- **ASP.NET Web Forms**, **ASP.NET Core** (in progress), **LINQ**, **Entity Framework Core** (in progress), **Web API**, **MS SQL Server**
-- **ASP.NET Web Forms**, **Angular** (in progress), **AJAX**, **JavaScript**,
-- **Crystal Reports**, **Power BI**, **Google Charts**, **Excel**
-- **Git**, **Clickup**, **Visual Studio**, **MS SQL Server**
-
+### Machine Learning:
+- Developed demand predictive models using TensorFlow
 
 ### Junior Software Engineer | Textile-based ERP Development Project  
 ### Yunusco T&A, Narayanganj | Apr 2015 - Dec 2015
@@ -52,9 +48,6 @@ Before joining the large-scale ERP development project, I worked as a **Junior S
 ### Key Responsibilities:
 - Created and maintained **Crystal Reports** for tracking inventory levels, production schedules, and order status, providing real-time insights to management.
 - Assisted in developing modules related to inventory management, order processing, and production planning for the textile industry.
-
-### Technologies Used:
-- **ASP.NET Web Forms**, **MS SQL Server**, **AJAX**, **JavaScript** **Crystal Reports**
 
 
 ## Connect with Me
