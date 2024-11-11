@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a str
 
 ## Work Experience
 
-### Teach Lead | ERP Development Project
+### Teach Lead | Real Estate ERP Development Project
 ### B2B Solutions, Dhaka | Jan 2016 - Present
 
 The work I have done as a **Teach Lead** on a large-scale **ERP development projects**. The project includes several core business modules such as **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management**, which I developed using **ASP.NET Web Forms** and **MS SQL Server**. 
