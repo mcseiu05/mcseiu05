@@ -31,33 +31,17 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 - Developed and maintained critical ERP modules for **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management** using **ASP.NET Web Forms** and **MS SQL Server**.
 - Integrated **LINQ** queries and **stored procedures** to ensure efficient data processing, reporting, and business logic implementation.
 - Created detailed **Crystal Reports** for financial, HR, and inventory reporting, streamlining internal reporting processes and providing valuable insights to senior management.
-
-### Web Development & User Interaction:
-- Designed and implemented dynamic, interactive user interfaces using **AJAX** and **JavaScript**, improving user experience and responsiveness across the ERP system.
-- Automated complex workflows and enhanced data validation processes to reduce manual intervention, particularly in **HR** and **Payroll** modules.
+- Automated complex workflows and enhanced data validation processes to reduce manual intervention.
 
 ### Dashboards & Reporting:
 - Developed interactive **Power BI** and **Google Charts** dashboards for senior management, providing real-time insights into key performance indicators (KPIs) and business metrics.
 - Delivered ad-hoc **Excel reports** to various departments, optimizing data presentation and streamlining analysis processes.
 
-### Transition to Modern Tech Stack:
-- Currently migrating legacy ERP modules from **ASP.NET Web Forms** to **ASP.NET Core** and **Angular** to improve system performance, scalability, and maintainability.
-- Contributing to backend API development with **ASP.NET Core** and designing modern frontend interfaces using **Angular**.
-- Gaining hands-on experience with **Entity Framework Core** for database management and working with **RESTful APIs** for enhanced system integration and performance optimization.
-
 ## Technologies Used:
-
-### Frontend:
-- **ASP.NET Web Forms**, **Angular** (in progress), **AJAX**, **JavaScript**, **HTML/CSS**
-
-### Backend:
 - **ASP.NET Web Forms**, **ASP.NET Core** (in progress), **LINQ**, **Entity Framework Core** (in progress), **Web API**, **MS SQL Server**
-
-### Reporting & Dashboards:
+- **ASP.NET Web Forms**, **Angular** (in progress), **AJAX**, **JavaScript**,
 - **Crystal Reports**, **Power BI**, **Google Charts**, **Excel**
-
-### Others:
-- **Git**, **Jira**, **Visual Studio**, **SQL Server Management Studio**
+- **Git**, **Clickup**, **Visual Studio**, **MS SQL Server**
 
 
 ### Junior Software Engineer | Textile-based ERP Development Project  
@@ -68,11 +52,10 @@ Before joining the large-scale ERP development project, I worked as a **Junior S
 ### Key Responsibilities:
 - Assisted in developing modules related to inventory management, order processing, and production planning for the textile industry.
 - Collaborated with senior developers to write efficient **SQL queries** and **stored procedures** for data retrieval and reporting.
-- Implemented dynamic forms and data validation features using **AJAX** and **JavaScript** to improve the user experience in the textile ERP system.
 - Created and maintained **Crystal Reports** for tracking inventory levels, production schedules, and order status, providing real-time insights to management.
 
 ### Technologies Used:
-- **ASP.NET Web Forms**, **MS SQL Server**, **Crystal Reports**, **AJAX**, **JavaScript**
+- **ASP.NET Web Forms**, **MS SQL Server**, **AJAX**, **JavaScript** **Crystal Reports**
 
 
 ## Connect with Me
