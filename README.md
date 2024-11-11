@@ -41,6 +41,8 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 ### Machine Learning:
 - Developed demand predictive models using TensorFlow
 
+
+
 ### Junior Software Engineer | Textile-based ERP Development Project  
 ### Yunusco T&A, Narayanganj | Apr 2015 - Dec 2015
 
