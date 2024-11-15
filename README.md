@@ -1,6 +1,6 @@
 # Hi there, I'm Mamun Ahammed! 👋
 
-Welcome to my GitHub profile! I am an aspiring Data Analyst/Scientist with a strong foundation in software development and a passion for data analysis. My journey in technology has equipped me with a diverse skill set, enabling me to uncover insights and deliver innovative data-driven solutions across various domains.
+Welcome to my GitHub profile! I am an aspiring Data Scientist with a strong foundation in software development and a passion for data analysis. My journey in technology has equipped me with a diverse skill set, enabling me to uncover insights and deliver innovative data-driven solutions across various domains.
 
 ## About Me
 
