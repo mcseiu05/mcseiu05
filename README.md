@@ -1,63 +1,57 @@
-# Hi there, I'm Mamun Ahammed! 👋
+# Hi, I'm Mamun Ahammed! 👋
 
-Welcome to my GitHub profile! I am a Data Scientist with a strong foundation in software development and a passion for data analysis. My journey in technology has equipped me with a diverse skill set, enabling me to uncover insights and deliver innovative data-driven solutions across various domains.
+Welcome to my GitHub profile! I’m a Data Scientist and Technical Lead with a strong background in software development and data analytics. I specialize in building scalable ERP solutions, creating insightful dashboards, and developing predictive models to drive business value.
 
 ## About Me
 
-- 🎓 **Education**: Master of Science and Bachelor of Science in Computer Science and Engineering from Islamic University, Kushtia, Bangladesh.
-- 💼 **Current Role**: Teach Lead at B2B Solutions, where I design and develop comprehensive business processes.
-- 📍  **Location**: Dhaka, Bangladesh.
+- 🎓 **Education:** M.S. and B.S. in Computer Science, Islamic University, Kushtia, Bangladesh  
+- 💼 **Current Role:** Technical Lead – Data Science & Analytics at B2B Solutions, Dhaka  
+- 📍 **Location:** Dhaka, Bangladesh  
 
-## Skills
+## Technical Skills
 
-- **Web Development**: ASP.NET Web Form, AJAX, Web Services, LINQ, ASP.NET Core, Angular (in progress), Entity Framework
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Plotly, Crystal Report, MS Power BI, Dash, Google Charts
-- **Machine Learning**: Developed demand predictive models using TensorFlow
-- **Database Management**: MS SQL Server, Oracle, PostgreSQL
-- **Tools**: Git, Trello, Clickup
-
+- **Languages & Frameworks:** C#, Python, ASP.NET, LINQ, Entity Framework  
+- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, TensorFlow, Streamlit, Dash, Power BI  
+- **Databases:** MS SQL Server, PostgreSQL  
+- **Reporting Tools:** Crystal Reports, Google Charts  
+- **DevOps & Tools:** Git, Jira, Trello, ClickUp, IIS, Windows Scheduler  
 
 ## Work Experience
 
-### Teach Lead | Real Estate ERP Development Project
-### B2B Solutions, Dhaka | Jan 2017 - Present
+### Technical Lead – Data Science & Analytics  
+**B2B Solutions, Dhaka** | Jan 2017 – Present  
 
-The work I have done as a **Teach Lead** on a large-scale **ERP development projects**. The project includes several core business modules such as **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management**, which I developed using **ASP.NET Web Forms** and **MS SQL Server**. 
+- Collaborate with stakeholders to gather requirements and align business goals with technical solutions.  
+- Streamline business processes using ASP.NET, Web Services, LINQ, and MS SQL Server.  
+- Build predictive models using Python, improving pricing accuracy by 20%.  
+- Design interactive dashboards with Google Charts and ASP.NET for actionable insights.  
+- Optimize SQL queries and stored procedures, reducing report generation time by 40%.  
+- Automate daily database backups and manage high-availability SQL Server environments.
 
-Currently, I am involved in migrating and upgrading the system to **ASP.NET Core** and **Angular** to enhance its performance, scalability, and maintainability.
+#### Key Projects  
+- **Bay ERP:** Custom ERP for real estate with modules in HR & Payroll, Supply Chain, CRM, Accounts & Finance.  
+- **Space ERP:** Real estate ERP focusing on HR & Payroll, Supply Chain, and Finance modules.  
+- **CO Dashboard:** Interactive data visualization platform using Google Charts and ASP.NET.
 
-### Key Responsibilities:
+### Software Developer  
+**Yunusco T&A Limited, Narayanganj** | Apr 2016 – Dec 2016  
 
-### ERP Modules Development:
-- Developed and maintained critical ERP modules for **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management** using **ASP.NET Web Forms** and **MS SQL Server**.
-- Created detailed **Crystal Reports** for financial, HR, and inventory reporting, streamlining internal reporting processes and providing valuable insights to senior management.
-- Integrated **LINQ** queries and **stored procedures** to ensure efficient data processing, reporting, and business logic implementation.
-- Automated complex workflows and enhanced data validation processes to reduce manual intervention.
+- Developed ERP modules for the textile industry using ASP.NET Web Forms and MS SQL Server.  
+- Created detailed Crystal Reports to provide management insights.  
 
-### Dashboards & Reporting:
-- Developed interactive **Power BI**, **Google Charts** and **Dash** dashboards for senior management, providing real-time insights into key performance indicators (KPIs) and business metrics.
-- Delivered ad-hoc **Excel reports** to various departments, optimizing data presentation and streamlining analysis processes.
+## Education
 
-### Machine Learning:
-- Developed demand predictive models using TensorFlow
+- **M.S. in Computer Science** — Islamic University, Kushtia (2012)  
+- **B.S. in Computer Science** — Islamic University, Kushtia (2011)  
 
+## Let's Connect!
 
+- 📧 Email: [m.cseiu05@gmail.com](mailto:m.cseiu05@gmail.com)  
+- 🔗 LinkedIn: [Mamun Ahammed](https://www.linkedin.com/in/mamun-ahammed-32b0b9b9/)  
+- 💻 GitHub: [mcseiu05](https://github.com/mcseiu05)  
 
+---
 
-### Junior Software Engineer | Textile-based ERP Development Project  
-### Yunusco T&A, Narayanganj | Apr 2016 - Dec 2016
-
-Before joining the large-scale ERP development project, I worked as a **Junior Software Engineer** on a **textile-based ERP system**. In this role, I assisted in the development and customization of core ERP modules with a focus on textile industry-specific processes. My responsibilities included implementing basic business logic, customizing user interfaces, and creating reports using technologies such as **ASP.NET Web Forms**, **MS SQL Server**, and **Crystal Reports**.
-
-### Key Responsibilities:
-- Created and maintained **Crystal Reports** for tracking inventory levels, production schedules, and order status, providing real-time insights to management.
-- Assisted in developing modules related to inventory management, order processing, and production planning for the textile industry.
+I'm always eager to learn new technologies and collaborate on exciting projects. Feel free to reach out!
 
 
-## Connect with Me
-
-- 📧 Email: [m.cseiu05@gmail.com](mailto:m.cseiu05@gmail.com)
-- 📜 LinkedIn: [Mamun Ahammed](https://www.linkedin.com/in/mamun-ahammed-32b0b9b9/m_cseiu)
-- 📁 GitHub: [mcseiu05](https://github.com/mcseiu05)
-
-I’m always eager to learn new technologies and collaborate on exciting projects. Feel free to reach out!
