@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a Data Scientist with a strong foundation in 
 ## Work Experience
 
 ### Teach Lead | Real Estate ERP Development Project
-### B2B Solutions, Dhaka | Jan 2016 - Present
+### B2B Solutions, Dhaka | Jan 2017 - Present
 
 The work I have done as a **Teach Lead** on a large-scale **ERP development projects**. The project includes several core business modules such as **Accounts**, **HR**, **Payroll**, **Supply Chain Management**, and **Inventory Management**, which I developed using **ASP.NET Web Forms** and **MS SQL Server**. 
 
@@ -45,7 +45,7 @@ Currently, I am involved in migrating and upgrading the system to **ASP.NET Core
 
 
 ### Junior Software Engineer | Textile-based ERP Development Project  
-### Yunusco T&A, Narayanganj | Apr 2015 - Dec 2015
+### Yunusco T&A, Narayanganj | Apr 2016 - Dec 2016
 
 Before joining the large-scale ERP development project, I worked as a **Junior Software Engineer** on a **textile-based ERP system**. In this role, I assisted in the development and customization of core ERP modules with a focus on textile industry-specific processes. My responsibilities included implementing basic business logic, customizing user interfaces, and creating reports using technologies such as **ASP.NET Web Forms**, **MS SQL Server**, and **Crystal Reports**.
 
