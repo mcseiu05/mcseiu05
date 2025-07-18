@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a Data Scientist and Technical Lead with a s
 - Streamline business processes using ASP.NET, Web Services, LINQ, and MS SQL Server.  
 - Build predictive models using Python, improving pricing accuracy by 20%.  
 - Design interactive dashboards with Google Charts and ASP.NET for actionable insights.  
-- Optimize SQL queries and stored procedures, reducing report generation time by 40%.  
+- Optimize SQL queries and stored procedures, reducing report generation time by 40%, and provide ad-hoc reports tailored to management needs  
 - Automate daily database backups and manage high-availability SQL Server environments.
 
 #### Key Projects  
