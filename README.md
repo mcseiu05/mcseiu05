@@ -1,4 +1,4 @@
-# Hi, I'm Mamun Ahammed! 👋
+# Hi, I'm Mamun Ahammed!
 
 Welcome to my GitHub profile! I’m a Data Scientist and Technical Lead with a strong background in software development and data analytics. I specialize in building scalable ERP solutions, creating insightful dashboards, and developing predictive models to drive business value.
 
