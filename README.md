@@ -21,12 +21,15 @@ Welcome to my GitHub profile! I’m a Data Scientist and Technical Lead with a s
 ### Technical Lead – Data Science & Analytics  
 **B2B Solutions, Dhaka** | Jan 2017 – Present  
 
-- Collaborate with stakeholders to gather requirements and align business goals with technical solutions.  
-- Streamline business processes using ASP.NET, Web Services, LINQ, and MS SQL Server.  
-- Build predictive models using Python, improving pricing accuracy by 20%.  
-- Design interactive dashboards with Google Charts and ASP.NET for actionable insights.  
-- Optimize SQL queries and stored procedures, reducing report generation time by 40%, and provide ad-hoc reports tailored to management needs  
-- Automate daily database backups and manage high-availability SQL Server environments.
+- Collaborated with users and stakeholders to gather requirements and align business goals with technical solutions.
+- Streamlined business processes using ASP.NET, Web Services, LINQ, and MS SQL Server to enhance system efficiency and scalability.
+- Built a linear regression model in Python, improving price prediction accuracy by 20%.
+- Developed and deployed a machine learning–based purchase anomaly detection system to identify irregular transactions and support business decision-making.
+- Designed interactive dashboards using Google Charts and ASP.NET to deliver actionable business insights.
+- Built an AI-powered resume-screening tool using TF-IDF and cosine similarity to rank candidate relevance.
+- Optimized SQL queries and stored procedures, reducing report generation time by 40%, and provided ad-hoc reports tailored to management needs.
+- Automated daily database backups using SQL Server Agent and Windows Scheduler to ensure data integrity and recovery.
+- Configured and managed IIS and SQL Server (including mirroring) for high availability, performance, and failover support.
 
 #### Key Projects  
 - **Bay ERP:** Custom ERP for real estate with modules in HR & Payroll, Supply Chain, CRM, Accounts & Finance.  
@@ -36,8 +39,9 @@ Welcome to my GitHub profile! I’m a Data Scientist and Technical Lead with a s
 ### Software Developer  
 **Yunusco T&A Limited, Narayanganj** | Apr 2016 – Dec 2016  
 
-- Developed ERP modules for the textile industry using ASP.NET Web Forms and MS SQL Server.  
-- Created detailed Crystal Reports to provide management insights.  
+- Collaborated with stakeholders to align business objectives with technical solutions.
+- Developed full-stack solutions using ASP.NET, Web Services, and MS SQL Server to streamline operations.
+- Generated key insights for senior management by designing detailed Crystal Reports.
 
 ## Education
 
